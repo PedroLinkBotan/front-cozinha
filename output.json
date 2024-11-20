@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "client": {
+            "id": "4ab28989-d75f-488d-e0f1-08dd0909cc30",
+            "table": "5",
+            "name": "alvaro"
+        },
+        "createdAt": "2024-11-19T22:19:44.2533781",
+        "updatedAt": "2024-11-19T22:19:44.2533806",
+        "orderProducts": [
+            {
+                "id": 2,
+                "productId": "62392760-26d3-44f4-03cf-08dd090a38a0",
+                "isFinish": false,
+                "product": {
+                    "id": "62392760-26d3-44f4-03cf-08dd090a38a0",
+                    "name": "Pizza de calabresa",
+                    "price": 35
+                }
+            }
+        ]
+    }
+]
